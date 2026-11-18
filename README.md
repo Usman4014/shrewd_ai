@@ -26,6 +26,25 @@ The application analyzes user-provided product details and images to generate st
 - **Image Upload** — Provide up to five product images for an analysis.
 - **No Account Required** — Use the application without login or signup.
 
+## App Screenshots
+
+<p align="center">
+  <img src="screenshots/featured.png" alt="SHREWD AI Featured Preview" width="100%">
+</p>
+
+<p align="center">
+  <img src="screenshots/homedark.png" width="24%" alt="Home Dark">
+  <img src="screenshots/homelight.jpeg" width="24%" alt="Home Light">
+  <img src="screenshots/analyzefields.png" width="24%" alt="Product Analysis">
+  <img src="screenshots/howitworks.png" width="24%" alt="How It Works">
+</p>
+
+<p align="center">
+  <img src="screenshots/onboarding.png" width="24%" alt="Onboarding">
+  <img src="screenshots/settings.png" width="24%" alt="Settings">
+  <img src="screenshots/splash.png" width="24%" alt="Splash Screen">
+</p>
+
 ## Technology Stack
 
 | Technology | Purpose |
