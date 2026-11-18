@@ -1,0 +1,23 @@
+
+# Dependencies
+node_modules/
+
+# Local secrets
+.dev.vars
+.dev.vars.*
+!.dev.vars.example
+
+# Environment files
+.env
+.env.*
+
+# Cloudflare
+.wrangler/
+
+# Build output
+dist/
+
+# Debug logs
+*.log
+
+worker-configuration.d.ts
